@@ -15,7 +15,7 @@
   - son chiquitos
   - muestran info
   - no consultan a ninguna API
-  - reciben props
+  - reciben todo via props
 - lib
   - datos
   - utils (fechas, objetos)
