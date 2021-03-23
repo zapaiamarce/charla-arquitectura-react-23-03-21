@@ -1,4 +1,4 @@
-# una aquitectura tiene que ver con el tamaño
+# La aquitectura tiene que ver con el tamaño del proyecto
 
 # capas
 
